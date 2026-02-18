@@ -104,5 +104,5 @@ python3 flashcard_generator.py textbook.pdf --model claude-haiku-4-5-20251001
 |------|---------|
 | `flashcard_generator.py` | Main application |
 | `requirements.txt` | Python dependencies |
-| `index.md` | This file |
-| `session_log.md` | Development session log |
+| `README.md` | This file |
+
